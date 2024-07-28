@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun kumar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -26,6 +26,7 @@
 </a>
 
 </div>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun6381&label=Profile%20views&color=0e75b6&style=flat" alt="arun6381" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun6381" alt="arun6381" /></a> </p>
