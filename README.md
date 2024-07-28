@@ -21,7 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arun-kumar-v-686917228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arun-kumar-v-686917228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://codesandbox.com/arun6381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arun6381" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iam__a_r_u_n?igsh=mwvybwc1ymszexvpeg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iam__a_r_u_n?igsh=mwvybwc1ymszexvpeg==" height="30" width="40" /></a>
